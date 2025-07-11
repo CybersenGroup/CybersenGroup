@@ -59,7 +59,7 @@ Nuestro Rubber Ducky casero construido con tecnología Raspberry Pi. Perfecto pa
 ### 📡 Bluetooth Jammer  
 **Interrumpiendo conexiones para investigación de seguridad**  
 
-![Bluetooth Jammer](assets/jammer.png)
+![Bluetooth Jammer](assets/jammer2.png)
 
 Una herramienta especializada para probar implementaciones de seguridad Bluetooth y entender las vulnerabilidades de comunicación inalámbrica en entornos controlados.
 
