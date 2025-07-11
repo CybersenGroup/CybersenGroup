@@ -5,7 +5,7 @@
 **Cybersen es un grupo académico dedicado a la formación, desarrollo y promoción de la ciberseguridad y el hacking ético** 👾  
 **Nuestra misión es promover el conocimiento, desarrollar habilidades e inspirar creatividad en la frontera digital a través de proyectos innovadores y visionarios.**
 ---
-![Perfil de Cybersen](assets/cybersen.png)
+![Perfil de Cybersen](assets/cybersenlogo.png)
 ## 🔗 Únete a la Comunidad
 
 **¡Sumérgete en el mundo de la ciberseguridad con nosotros!** 
