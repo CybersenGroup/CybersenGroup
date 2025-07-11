@@ -1,16 +1,20 @@
 # 👾 Bienvenido a Cybersen
 ---
 ## Acerca de Cybersen
+
 Cybersen es un grupo académico dedicado a la formación, desarrollo y promoción de la ciberseguridad y el hacking ético 👾  
 Nuestra misión es promover el conocimiento, desarrollar habilidades e inspirar creatividad en la frontera digital a través de proyectos innovadores y visionarios.
 ---
 ![Perfil de Cybersen](assets/cybersen.png)
 ## 🔗 Únete a la Comunidad
+
 ¡Sumérgete en el mundo de la ciberseguridad con nosotros!  
 Explora nuestro [Repositorio Cybersen](https://github.com/cybersengroup), contribuye a iniciativas de código abierto y colabora en herramientas de vanguardia.  
 Ya seas principiante o hacker experimentado, Cybersen es tu espacio para crecer e innovar.
 ---
+
 ## 📡 Contáctanos
+
 ¡Conectemos y construyamos el futuro de la ciberseguridad juntos!
 - 📧 Email: [cybersengroup@gmail.com](mailto:cybersengroup@gmail.com)  
 - 🐦 X (Twitter): [@cybersengroup](https://x.com/cybersengroup)  
@@ -22,6 +26,7 @@ Ya seas principiante o hacker experimentado, Cybersen es tu espacio para crecer 
 - 📘 Facebook: [CyberSenGroup](https://www.facebook.com/CyberSenGroup)  
 
 ## 🔜 Próximamente
+
 ### 🔧 Keros  
 **Tu puerta de entrada de bolsillo al hacking de hardware**  
 Un dispositivo compacto basado en ESP32 diseñado para pruebas de penetración caseras e investigación de seguridad IoT. Lo suficientemente pequeño para caber en tu bolsillo, lo suficientemente potente para desbloquear nuevas posibilidades.  
