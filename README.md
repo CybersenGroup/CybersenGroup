@@ -26,7 +26,7 @@ Ya seas principiante o hacker experimentado, Cybersen es tu espacio para crecer 
 **Tu puerta de entrada de bolsillo al hacking de hardware**  
 Un dispositivo compacto basado en ESP32 diseñado para pruebas de penetración caseras e investigación de seguridad IoT. Lo suficientemente pequeño para caber en tu bolsillo, lo suficientemente potente para desbloquear nuevas posibilidades.  
 
-![Keros](assets/Keros.webp)
+![Keros](assets/keros.png)
 
 ### 🦆 PicoDucky  
 **El USB sigiloso que contraataca**  
