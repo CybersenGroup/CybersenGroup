@@ -1,37 +1,47 @@
-# 👾 Welcome to Cybersen
-
-
+# 👾 Bienvenido a Cybersen
 ---
-
-## About Cybersen
-
-**Cybersen** is an **academic group dedicated to the training, development, and promotion of cybersecurity and ethical hacking** 👾
-
-Blending cyberpunk aesthetics with high-tech solutions, Cybersen empowers a growing community of students, geeks, and visionaries.  
-Our mission is to promote knowledge, develop skills, and inspire creativity in the digital frontier through innovative, forward-thinking projects.
-
+## Acerca de Cybersen
+Cybersen es un grupo académico dedicado a la formación, desarrollo y promoción de la ciberseguridad y el hacking ético 👾  
+Nuestra misión es promover el conocimiento, desarrollar habilidades e inspirar creatividad en la frontera digital a través de proyectos innovadores y visionarios.
 ---
-
-![Cybersen's Profile](assets/cybersen.png)
-
-
-## 🔗 Join the Community
-
-Dive into the world of cybersecurity with us!  
-Explore our [Cybersen Repository](https://github.com/cybersengroup), contribute to open-source initiatives, and collaborate on cutting-edge tools.  
-Whether you're a beginner or an experienced hacker, Cybersen is your space to grow and innovate.
-
+![Perfil de Cybersen](assets/cybersen.png)
+## 🔗 Únete a la Comunidad
+¡Sumérgete en el mundo de la ciberseguridad con nosotros!  
+Explora nuestro [Repositorio Cybersen](https://github.com/cybersengroup), contribuye a iniciativas de código abierto y colabora en herramientas de vanguardia.  
+Ya seas principiante o hacker experimentado, Cybersen es tu espacio para crecer e innovar.
 ---
+## 📡 Contáctanos
+¡Conectemos y construyamos el futuro de la ciberseguridad juntos!
+- 📧 Email: [cybersengroup@gmail.com](mailto:cybersengroup@gmail.com)  
+- 🐦 X (Twitter): [@cybersengroup](https://x.com/cybersengroup)  
+- 💼 LinkedIn: [Cybersen Group](https://www.linkedin.com/in/cybersen-group-904682349/)  
+- 📸 Instagram: [@cybersengroup](https://www.instagram.com/cybersengroup/)  
+- 📹 YouTube: [Cybersen](https://www.youtube.com/@CybersenGroup)  
+- 💬 Discord: [Únete](https://discord.gg/CTq7js2mtu)  
+- 🌐 GitHub: [cybersengroup](https://github.com/cybersengroup)  
+- 📘 Facebook: [CyberSenGroup](https://www.facebook.com/CyberSenGroup)  
 
-## 📡 Contact Us
+## 🔜 Próximamente
+### 🔧 Keros  
+**Tu puerta de entrada de bolsillo al hacking de hardware**  
+Un dispositivo compacto basado en ESP32 diseñado para pruebas de penetración caseras e investigación de seguridad IoT. Lo suficientemente pequeño para caber en tu bolsillo, lo suficientemente potente para desbloquear nuevas posibilidades.  
 
-Let’s connect and build the future of cybersecurity together!
+![Keros](assets/keros.png)
 
-- 📧 **Email**: [cybersengroup@gmail.com](mailto:cybersengroup@gmail.com)  
-- 🐦 **X (Twitter)**: [@cybersengroup](https://x.com/cybersengroup)  
-- 💼 **LinkedIn**: [Cybersen Group](https://www.linkedin.com/in/cybersen-group-904682349/)  
-- 📸 **Instagram**: [@cybersengroup](https://www.instagram.com/cybersengroup/)  
-- 📹 **YouTube**: [Cybersen](https://www.youtube.com/@CybersenGroup)  
-- 💬 **Discord**: [Join](https://discord.gg/CTq7js2mtu)  
-- 🌐 **GitHub**: [cybersengroup](https://github.com/cybersengroup)  
-- 📘 **Facebook**: [CyberSenGroup](https://www.facebook.com/CyberSenGroup)  
+### 🦆 PicoDucky  
+**El USB sigiloso que contraataca**  
+Nuestro Rubber Ducky casero construido con tecnología Raspberry Pi. Perfecto para pruebas de seguridad y demostrar las vulnerabilidades de sistemas desatendidos.  
+
+![PicoDucky](assets/picoducky.png)
+
+### 📡 Bluetooth Jammer  
+**Interrumpiendo conexiones para investigación de seguridad**  
+Una herramienta especializada para probar implementaciones de seguridad Bluetooth y entender las vulnerabilidades de comunicación inalámbrica en entornos controlados.  
+
+![Bluetooth Jammer](assets/jammer.png)
+
+### 🕸️ Portal Cautivo con ESP32  
+**Ingeniería social simplificada**  
+Un sistema de portal cautivo alimentado por ESP32 para demostraciones educativas de técnicas de phishing y entrenamiento de conciencia del usuario.  
+
+![Portal Cautivo](assets/portal.png)
